@@ -1,0 +1,8 @@
+# mac files
+*.DS_Store
+
+# generated files
+bin/
+gen/
+
+.DS_Store
